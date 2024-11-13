@@ -1,4 +1,5 @@
 {
+  "description": "This is an application to replicate LLM App capabilities using local PyTorch models",
   "status": "WIP",
   "references": null,
   "tags": ["LLM", "Python", "PyTorch", "Application"]
