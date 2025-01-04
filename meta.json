@@ -1,6 +1,6 @@
 {
-  "description": "This is an application to replicate LLM App capabilities using local PyTorch models",
+  "description": "This is an application to replicate LLM App capabilities using local transformer models",
   "status": "WIP",
   "references": null,
-  "tags": ["LLM", "Python", "PyTorch", "Application"]
+  "tags": ["LLM", "C", "C++", "Application"]
 }
